@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [11 Powerful iOS Apps That Will Change How We Work, Spend & Stay Healthy](https://gauravtakjaipur.medium.com/11-powerful-ios-apps-that-will-change-how-we-work-spend-stay-healthy-0dd88659da88?source=rss-223110f75295------2) *(Published on 15 Dec 2025)*
 - [How to Copy GitHub Commits to GitLab: A Step-by-Step Guide for Developers (2025)](https://gauravtakjaipur.medium.com/how-to-copy-github-commits-to-gitlab-a-step-by-step-guide-for-developers-2025-909b95325755?source=rss-223110f75295------2) *(Published on 12 Dec 2025)*
 - [App Store Approval: Common Reasons for Rejection (and How to Fix Each One)](https://gauravtakjaipur.medium.com/app-store-approval-common-reasons-for-rejection-and-how-to-fix-each-one-51ee29412655?source=rss-223110f75295------2) *(Published on 12 Dec 2025)*
 - [11 Essential Swift Modifiers Every iOS Developer Should Know](https://gauravtakjaipur.medium.com/11-essential-swift-modifiers-every-ios-developer-should-know-ff23126add2d?source=rss-223110f75295------2) *(Published on 11 Dec 2025)*
@@ -84,7 +85,6 @@
 - [SwiftUI Memory: The Invisible Bugs That Slow Down Our App (and How to Fix Them)](https://gauravtakjaipur.medium.com/swiftui-memory-the-invisible-bugs-that-slow-down-our-app-and-how-to-fix-them-b21a47cf3c81?source=rss-223110f75295------2) *(Published on 3 Dec 2025)*
 - [The Simplest Way to Discover Nearby Bluetooth Devices in SwiftUI (With Code)](https://gauravtakjaipur.medium.com/the-simplest-way-to-discover-nearby-bluetooth-devices-in-swiftui-with-code-135fe0d69b6a?source=rss-223110f75295------2) *(Published on 30 Nov 2025)*
 - [Swift Concurrency — @MainActor vs @GlobalActor in Swift: The Complete 2025 Guide Every iOS…](https://gauravtakjaipur.medium.com/swift-concurrency-mainactor-vs-globalactor-in-swift-the-complete-2025-guide-every-ios-c5aab821849f?source=rss-223110f75295------2) *(Published on 27 Nov 2025)*
-- [Do We Still Need AppDelegate in iOS SwiftUI App?](https://gauravtakjaipur.medium.com/do-we-still-need-appdelegate-in-ios-swiftui-app-7d8994686cfa?source=rss-223110f75295------2) *(Published on 27 Nov 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
