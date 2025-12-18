@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [SwiftUI App Structure Explained: App, Scene, View & State (With Code Examples)](https://gauravtakjaipur.medium.com/swiftui-app-structure-explained-app-scene-view-state-with-code-examples-62ccb2f033b0?source=rss-223110f75295------2) *(Published on 18 Dec 2025)*
 - [iOS 18 vs iOS 26: A Developer’s Guide to the Future of iOS App Development](https://gauravtakjaipur.medium.com/ios-18-vs-ios-26-a-developers-guide-to-the-future-of-ios-app-development-2c4e0991d303?source=rss-223110f75295------2) *(Published on 16 Dec 2025)*
 - [11 Powerful iOS Apps That Will Change How We Work, Spend & Stay Healthy](https://gauravtakjaipur.medium.com/11-powerful-ios-apps-that-will-change-how-we-work-spend-stay-healthy-0dd88659da88?source=rss-223110f75295------2) *(Published on 15 Dec 2025)*
 - [How to Copy GitHub Commits to GitLab: A Step-by-Step Guide for Developers (2025)](https://gauravtakjaipur.medium.com/how-to-copy-github-commits-to-gitlab-a-step-by-step-guide-for-developers-2025-909b95325755?source=rss-223110f75295------2) *(Published on 12 Dec 2025)*
@@ -84,7 +85,6 @@
 - [Top 10 iOS Development Skills to Master in 2025 (With Code Examples)](https://gauravtakjaipur.medium.com/top-10-ios-development-skills-to-master-in-2025-with-code-examples-a40038b83085?source=rss-223110f75295------2) *(Published on 5 Dec 2025)*
 - [10 Real-World Examples of Higher-Order Functions Every iOS Developer Should Know (Swift)](https://gauravtakjaipur.medium.com/10-real-world-examples-of-higher-order-functions-every-ios-developer-should-know-swift-29065ba7665a?source=rss-223110f75295------2) *(Published on 4 Dec 2025)*
 - [SwiftUI Memory: The Invisible Bugs That Slow Down Our App (and How to Fix Them)](https://gauravtakjaipur.medium.com/swiftui-memory-the-invisible-bugs-that-slow-down-our-app-and-how-to-fix-them-b21a47cf3c81?source=rss-223110f75295------2) *(Published on 3 Dec 2025)*
-- [The Simplest Way to Discover Nearby Bluetooth Devices in SwiftUI (With Code)](https://gauravtakjaipur.medium.com/the-simplest-way-to-discover-nearby-bluetooth-devices-in-swiftui-with-code-135fe0d69b6a?source=rss-223110f75295------2) *(Published on 30 Nov 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
