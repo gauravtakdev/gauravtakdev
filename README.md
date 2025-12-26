@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [Swift 6.2 Is a Game Changer: Powerful Features Every iOS Developer Should Start Using Today](https://gauravtakjaipur.medium.com/swift-6-2-is-a-game-changer-powerful-features-every-ios-developer-should-start-using-today-10df7929dbdd?source=rss-223110f75295------2) *(Published on 26 Dec 2025)*
 - [Top 25 iOS Interview Questions for 2025 →With Real Answers, Not Just Theory](https://gauravtakjaipur.medium.com/top-25-ios-interview-questions-for-2025-with-real-answers-not-just-theory-6d66102afb03?source=rss-223110f75295------2) *(Published on 24 Dec 2025)*
 - [How Concurrency Got Better in iOS 26: A Deep Dive with Swift Code Examples](https://gauravtakjaipur.medium.com/how-concurrency-got-better-in-ios-26-a-deep-dive-with-swift-code-examples-83ed89cad82c?source=rss-223110f75295------2) *(Published on 23 Dec 2025)*
 - [Devirtualization in Swift Explained →The iOS Interview Question Senior Engineers Get Wrong](https://gauravtakjaipur.medium.com/devirtualization-in-swift-explained-the-ios-interview-question-senior-engineers-get-wrong-13bd58bb8fbc?source=rss-223110f75295------2) *(Published on 22 Dec 2025)*
@@ -84,7 +85,6 @@
 - [11 Essential Swift Modifiers Every iOS Developer Should Know](https://gauravtakjaipur.medium.com/11-essential-swift-modifiers-every-ios-developer-should-know-ff23126add2d?source=rss-223110f75295------2) *(Published on 11 Dec 2025)*
 - [Step-by-Step Guide: How to Implement NavigationStack + NavigationPath in SwiftUI (with Code…](https://gauravtakjaipur.medium.com/step-by-step-guide-how-to-implement-navigationstack-navigationpath-in-swiftui-with-code-714d08ba619c?source=rss-223110f75295------2) *(Published on 10 Dec 2025)*
 - [Top 10 iOS Development Skills to Master in 2025 (With Code Examples)](https://gauravtakjaipur.medium.com/top-10-ios-development-skills-to-master-in-2025-with-code-examples-a40038b83085?source=rss-223110f75295------2) *(Published on 5 Dec 2025)*
-- [10 Real-World Examples of Higher-Order Functions Every iOS Developer Should Know (Swift)](https://gauravtakjaipur.medium.com/10-real-world-examples-of-higher-order-functions-every-ios-developer-should-know-swift-29065ba7665a?source=rss-223110f75295------2) *(Published on 4 Dec 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
