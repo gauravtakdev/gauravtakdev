@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [Step-by-Step Guide to Liquid Glass UI in SwiftUI →Build a Polished Modern iOS Component](https://gauravtakjaipur.medium.com/step-by-step-guide-to-liquid-glass-ui-in-swiftui-build-a-polished-modern-ios-component-05cf6d87f9c9?source=rss-223110f75295------2) *(Published on 29 Dec 2025)*
 - [Powerful Mastery of Love Quotes Every Person Should Read for Deep Healing](https://gauravtakjaipur.medium.com/powerful-mastery-of-love-quotes-every-person-should-read-for-deep-healing-d5fcfec886db?source=rss-223110f75295------2) *(Published on 28 Dec 2025)*
 - [Swift 6.2 Is a Game Changer: Powerful Features Every iOS Developer Should Start Using Today](https://gauravtakjaipur.medium.com/swift-6-2-is-a-game-changer-powerful-features-every-ios-developer-should-start-using-today-10df7929dbdd?source=rss-223110f75295------2) *(Published on 26 Dec 2025)*
 - [Top 25 iOS Interview Questions for 2025 →With Real Answers, Not Just Theory](https://gauravtakjaipur.medium.com/top-25-ios-interview-questions-for-2025-with-real-answers-not-just-theory-6d66102afb03?source=rss-223110f75295------2) *(Published on 24 Dec 2025)*
@@ -84,7 +85,6 @@
 - [SwiftUI App Structure Explained: App, Scene, View & State (With Code Examples)](https://gauravtakjaipur.medium.com/swiftui-app-structure-explained-app-scene-view-state-with-code-examples-62ccb2f033b0?source=rss-223110f75295------2) *(Published on 18 Dec 2025)*
 - [App Store Approval: Common Reasons for Rejection (and How to Fix Each One)](https://gauravtakjaipur.medium.com/app-store-approval-common-reasons-for-rejection-and-how-to-fix-each-one-51ee29412655?source=rss-223110f75295------2) *(Published on 12 Dec 2025)*
 - [11 Essential Swift Modifiers Every iOS Developer Should Know](https://gauravtakjaipur.medium.com/11-essential-swift-modifiers-every-ios-developer-should-know-ff23126add2d?source=rss-223110f75295------2) *(Published on 11 Dec 2025)*
-- [Step-by-Step Guide: How to Implement NavigationStack + NavigationPath in SwiftUI (with Code…](https://gauravtakjaipur.medium.com/step-by-step-guide-how-to-implement-navigationstack-navigationpath-in-swiftui-with-code-714d08ba619c?source=rss-223110f75295------2) *(Published on 10 Dec 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
