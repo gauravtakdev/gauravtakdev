@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [iOS App Distribution Methods Explained →From App Store to Enterprise & TestFlight](https://gauravtakjaipur.medium.com/ios-app-distribution-methods-explained-from-app-store-to-enterprise-testflight-4b9f0301e26d?source=rss-223110f75295------2) *(Published on 5 Jan 2026)*
 - [Mastering Combine in Swift: The Ultimate Guide Every Modern iOS Developer Should Know](https://gauravtakjaipur.medium.com/mastering-combine-in-swift-the-ultimate-guide-every-modern-ios-developer-should-know-1e3f076de271?source=rss-223110f75295------2) *(Published on 4 Jan 2026)*
 - [Concurrency in Swift Explained: async/await, Actors, GCD & Interview Questions](https://gauravtakjaipur.medium.com/concurrency-in-swift-explained-async-await-actors-gcd-interview-questions-bd4847c4f8e2?source=rss-223110f75295------2) *(Published on 2 Jan 2026)*
 - [SwiftUI vs UIKit: The Honest Performance, Bugs & Career Comparison](https://gauravtakjaipur.medium.com/swiftui-vs-uikit-the-honest-performance-bugs-career-comparison-1f06d2950a96?source=rss-223110f75295------2) *(Published on 29 Dec 2025)*
@@ -84,7 +85,6 @@
 - [Top 25 iOS Interview Questions for 2025 →With Real Answers, Not Just Theory](https://gauravtakjaipur.medium.com/top-25-ios-interview-questions-for-2025-with-real-answers-not-just-theory-6d66102afb03?source=rss-223110f75295------2) *(Published on 24 Dec 2025)*
 - [How Concurrency Got Better in iOS 26: A Deep Dive with Swift Code Examples](https://gauravtakjaipur.medium.com/how-concurrency-got-better-in-ios-26-a-deep-dive-with-swift-code-examples-83ed89cad82c?source=rss-223110f75295------2) *(Published on 23 Dec 2025)*
 - [Devirtualization in Swift Explained →The iOS Interview Question Senior Engineers Get Wrong](https://gauravtakjaipur.medium.com/devirtualization-in-swift-explained-the-ios-interview-question-senior-engineers-get-wrong-13bd58bb8fbc?source=rss-223110f75295------2) *(Published on 22 Dec 2025)*
-- [Manual Testing Is Not Dead: Why Quality Assurance Still Matters in 2025](https://gauravtakjaipur.medium.com/manual-testing-is-not-dead-why-quality-assurance-still-matters-in-2025-8f57b7d9babc?source=rss-223110f75295------2) *(Published on 22 Dec 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
