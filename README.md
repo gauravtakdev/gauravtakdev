@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [The Android 16KB Page Size Problem Explained: What Changed, Why It Broke Builds, and the Right Fix](https://gauravtakjaipur.medium.com/the-android-16kb-page-size-problem-explained-what-changed-why-it-broke-builds-and-the-right-fix-7caeeb63e0bd?source=rss-223110f75295------2) *(Published on 9 Jan 2026)*
 - [iOS Architecture Done Right: MVVM + Clean Architecture Explained with Real Code & File Structure](https://gauravtakjaipur.medium.com/ios-architecture-done-right-mvvm-clean-architecture-explained-with-real-code-file-structure-5a36c0d8c7b4?source=rss-223110f75295------2) *(Published on 7 Jan 2026)*
 - [iOS App Distribution Methods Explained →From App Store to Enterprise & TestFlight](https://gauravtakjaipur.medium.com/ios-app-distribution-methods-explained-from-app-store-to-enterprise-testflight-4b9f0301e26d?source=rss-223110f75295------2) *(Published on 5 Jan 2026)*
 - [Mastering Combine in Swift: The Ultimate Guide Every Modern iOS Developer Should Know](https://gauravtakjaipur.medium.com/mastering-combine-in-swift-the-ultimate-guide-every-modern-ios-developer-should-know-1e3f076de271?source=rss-223110f75295------2) *(Published on 4 Jan 2026)*
@@ -84,7 +85,6 @@
 - [Swift 6.2 Is a Game Changer: Powerful Features Every iOS Developer Should Start Using Today](https://gauravtakjaipur.medium.com/swift-6-2-is-a-game-changer-powerful-features-every-ios-developer-should-start-using-today-10df7929dbdd?source=rss-223110f75295------2) *(Published on 26 Dec 2025)*
 - [Top 25 iOS Interview Questions for 2025 →With Real Answers, Not Just Theory](https://gauravtakjaipur.medium.com/top-25-ios-interview-questions-for-2025-with-real-answers-not-just-theory-6d66102afb03?source=rss-223110f75295------2) *(Published on 24 Dec 2025)*
 - [How Concurrency Got Better in iOS 26: A Deep Dive with Swift Code Examples](https://gauravtakjaipur.medium.com/how-concurrency-got-better-in-ios-26-a-deep-dive-with-swift-code-examples-83ed89cad82c?source=rss-223110f75295------2) *(Published on 23 Dec 2025)*
-- [Devirtualization in Swift Explained →The iOS Interview Question Senior Engineers Get Wrong](https://gauravtakjaipur.medium.com/devirtualization-in-swift-explained-the-ios-interview-question-senior-engineers-get-wrong-13bd58bb8fbc?source=rss-223110f75295------2) *(Published on 22 Dec 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
