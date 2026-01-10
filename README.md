@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [What Is the Sendable Protocol in Swift? A Practical Guide to Concurrency Safety](https://gauravtakjaipur.medium.com/what-is-the-sendable-protocol-in-swift-a-practical-guide-to-concurrency-safety-694e621b2d73?source=rss-223110f75295------2) *(Published on 10 Jan 2026)*
 - [The Android 16KB Page Size Problem Explained: What Changed, Why It Broke Builds, and the Right Fix](https://gauravtakjaipur.medium.com/the-android-16kb-page-size-problem-explained-what-changed-why-it-broke-builds-and-the-right-fix-7caeeb63e0bd?source=rss-223110f75295------2) *(Published on 9 Jan 2026)*
 - [iOS Architecture Done Right: MVVM + Clean Architecture Explained with Real Code & File Structure](https://gauravtakjaipur.medium.com/ios-architecture-done-right-mvvm-clean-architecture-explained-with-real-code-file-structure-5a36c0d8c7b4?source=rss-223110f75295------2) *(Published on 7 Jan 2026)*
 - [iOS App Distribution Methods Explained →From App Store to Enterprise & TestFlight](https://gauravtakjaipur.medium.com/ios-app-distribution-methods-explained-from-app-store-to-enterprise-testflight-4b9f0301e26d?source=rss-223110f75295------2) *(Published on 5 Jan 2026)*
@@ -84,7 +85,6 @@
 - [Step-by-Step Guide to Liquid Glass UI in SwiftUI →Build a Polished Modern iOS Component](https://gauravtakjaipur.medium.com/step-by-step-guide-to-liquid-glass-ui-in-swiftui-build-a-polished-modern-ios-component-05cf6d87f9c9?source=rss-223110f75295------2) *(Published on 29 Dec 2025)*
 - [Swift 6.2 Is a Game Changer: Powerful Features Every iOS Developer Should Start Using Today](https://gauravtakjaipur.medium.com/swift-6-2-is-a-game-changer-powerful-features-every-ios-developer-should-start-using-today-10df7929dbdd?source=rss-223110f75295------2) *(Published on 26 Dec 2025)*
 - [Top 25 iOS Interview Questions for 2025 →With Real Answers, Not Just Theory](https://gauravtakjaipur.medium.com/top-25-ios-interview-questions-for-2025-with-real-answers-not-just-theory-6d66102afb03?source=rss-223110f75295------2) *(Published on 24 Dec 2025)*
-- [How Concurrency Got Better in iOS 26: A Deep Dive with Swift Code Examples](https://gauravtakjaipur.medium.com/how-concurrency-got-better-in-ios-26-a-deep-dive-with-swift-code-examples-83ed89cad82c?source=rss-223110f75295------2) *(Published on 23 Dec 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
