@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [CES 2026: Tech Trends, Research Frontiers, and Innovation Stories from Las Vegas](https://gauravtakjaipur.medium.com/ces-2026-tech-trends-research-frontiers-and-innovation-stories-from-las-vegas-4dc48b35c551?source=rss-223110f75295------2) *(Published on 13 Jan 2026)*
 - [Top 5 AI APIs Every iOS Developer Should Use and Implement in 2026](https://gauravtakjaipur.medium.com/top-5-ai-apis-every-ios-developer-should-use-and-implement-in-2026-8d1af62e7e05?source=rss-223110f75295------2) *(Published on 13 Jan 2026)*
 - [2025 iOS Security Guide With Code Examples: Swift & SwiftUI Checklist Every iOS Developer Must Know](https://gauravtakjaipur.medium.com/2025-ios-security-guide-with-code-examples-swift-swiftui-checklist-every-ios-developer-must-know-d35acf060fe4?source=rss-223110f75295------2) *(Published on 12 Jan 2026)*
 - [Before We Panic: The iOS Debugging Checklist with Code Examples Every Developer Should Use](https://gauravtakjaipur.medium.com/before-we-panic-the-ios-debugging-checklist-with-code-examples-every-developer-should-use-d0b6a8b9b4ec?source=rss-223110f75295------2) *(Published on 12 Jan 2026)*
@@ -84,7 +85,6 @@
 - [iOS App Distribution Methods Explained →From App Store to Enterprise & TestFlight](https://gauravtakjaipur.medium.com/ios-app-distribution-methods-explained-from-app-store-to-enterprise-testflight-4b9f0301e26d?source=rss-223110f75295------2) *(Published on 5 Jan 2026)*
 - [Mastering Combine in Swift: The Ultimate Guide Every Modern iOS Developer Should Know](https://gauravtakjaipur.medium.com/mastering-combine-in-swift-the-ultimate-guide-every-modern-ios-developer-should-know-1e3f076de271?source=rss-223110f75295------2) *(Published on 4 Jan 2026)*
 - [Concurrency in Swift Explained: async/await, Actors, GCD & Interview Questions](https://gauravtakjaipur.medium.com/concurrency-in-swift-explained-async-await-actors-gcd-interview-questions-bd4847c4f8e2?source=rss-223110f75295------2) *(Published on 2 Jan 2026)*
-- [SwiftUI vs UIKit: The Honest Performance, Bugs & Career Comparison](https://gauravtakjaipur.medium.com/swiftui-vs-uikit-the-honest-performance-bugs-career-comparison-1f06d2950a96?source=rss-223110f75295------2) *(Published on 29 Dec 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
