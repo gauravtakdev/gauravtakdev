@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [Understanding defer in Swift: The Clean, Safe, and Predictable Code Pattern Every iOS Developer…](https://gauravtakjaipur.medium.com/understanding-defer-in-swift-the-clean-safe-and-predictable-code-pattern-every-ios-developer-2024baa00362?source=rss-223110f75295------2) *(Published on 24 Jan 2026)*
 - [Building a Modern File Picker in SwiftUI with Async/Await → From Basics to Production-Ready](https://gauravtakjaipur.medium.com/building-a-modern-file-picker-in-swiftui-with-async-await-from-basics-to-production-ready-94cb8c71754c?source=rss-223110f75295------2) *(Published on 23 Jan 2026)*
 - [The Ultimate Swift Revision Roadmap: Senior-Level Concepts With Real Code Examples](https://gauravtakjaipur.medium.com/the-ultimate-swift-revision-roadmap-senior-level-concepts-with-real-code-examples-9fa79ed958eb?source=rss-223110f75295------2) *(Published on 16 Jan 2026)*
 - [Self vs self in Swift: The Subtle Difference Most Developers Miss](https://gauravtakjaipur.medium.com/self-vs-self-in-swift-the-subtle-difference-most-developers-miss-a80dd1d1abf1?source=rss-223110f75295------2) *(Published on 14 Jan 2026)*
@@ -84,7 +85,6 @@
 - [Before We Panic: The iOS Debugging Checklist with Code Examples Every Developer Should Use](https://gauravtakjaipur.medium.com/before-we-panic-the-ios-debugging-checklist-with-code-examples-every-developer-should-use-d0b6a8b9b4ec?source=rss-223110f75295------2) *(Published on 12 Jan 2026)*
 - [What Is the Sendable Protocol in Swift? A Practical Guide to Concurrency Safety](https://gauravtakjaipur.medium.com/what-is-the-sendable-protocol-in-swift-a-practical-guide-to-concurrency-safety-694e621b2d73?source=rss-223110f75295------2) *(Published on 10 Jan 2026)*
 - [The Android 16KB Page Size Problem Explained: What Changed, Why It Broke Builds, and the Right Fix](https://gauravtakjaipur.medium.com/the-android-16kb-page-size-problem-explained-what-changed-why-it-broke-builds-and-the-right-fix-7caeeb63e0bd?source=rss-223110f75295------2) *(Published on 9 Jan 2026)*
-- [iOS Architecture Done Right: MVVM + Clean Architecture Explained with Real Code & File Structure](https://gauravtakjaipur.medium.com/ios-architecture-done-right-mvvm-clean-architecture-explained-with-real-code-file-structure-5a36c0d8c7b4?source=rss-223110f75295------2) *(Published on 7 Jan 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
