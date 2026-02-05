@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [Step-by-Step Guide: How to Use and Implement Custom SwiftUI Modifiers to Make Your Code Clean and…](https://gauravtakjaipur.medium.com/step-by-step-guide-how-to-use-and-implement-custom-swiftui-modifiers-to-make-your-code-clean-and-ac91afb009be?source=rss-223110f75295------2) *(Published on 5 Feb 2026)*
 - [iOS Concurrency Done Right: Concepts Every iOS Developer Should Understand and Implement](https://gauravtakjaipur.medium.com/ios-concurrency-done-right-concepts-every-ios-developer-should-understand-and-implement-c7defa5ac26b?source=rss-223110f75295------2) *(Published on 30 Jan 2026)*
 - [Can You Predict the Output? Concurrency Questions That Break Most Interviews](https://gauravtakjaipur.medium.com/can-you-predict-the-output-concurrency-questions-that-break-most-interviews-77cd13068eb2?source=rss-223110f75295------2) *(Published on 28 Jan 2026)*
 - [Why Our iOS App Stops Working in the Background: A Deep Dive into App Suspension & Wake-Up](https://gauravtakjaipur.medium.com/why-our-ios-app-stops-working-in-the-background-a-deep-dive-into-app-suspension-wake-up-6e3dd2de1d60?source=rss-223110f75295------2) *(Published on 26 Jan 2026)*
@@ -84,7 +85,6 @@
 - [Building a Modern File Picker in SwiftUI with Async/Await → From Basics to Production-Ready](https://gauravtakjaipur.medium.com/building-a-modern-file-picker-in-swiftui-with-async-await-from-basics-to-production-ready-94cb8c71754c?source=rss-223110f75295------2) *(Published on 23 Jan 2026)*
 - [The Ultimate Swift Revision Roadmap: Senior-Level Concepts With Real Code Examples](https://gauravtakjaipur.medium.com/the-ultimate-swift-revision-roadmap-senior-level-concepts-with-real-code-examples-9fa79ed958eb?source=rss-223110f75295------2) *(Published on 16 Jan 2026)*
 - [Self vs self in Swift: The Subtle Difference Most Developers Miss](https://gauravtakjaipur.medium.com/self-vs-self-in-swift-the-subtle-difference-most-developers-miss-a80dd1d1abf1?source=rss-223110f75295------2) *(Published on 14 Jan 2026)*
-- [CES 2026: Tech Trends, Research Frontiers, and Innovation Stories from Las Vegas](https://gauravtakjaipur.medium.com/ces-2026-tech-trends-research-frontiers-and-innovation-stories-from-las-vegas-4dc48b35c551?source=rss-223110f75295------2) *(Published on 13 Jan 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
