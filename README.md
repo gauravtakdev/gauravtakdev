@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [Stop Accessing UITabBar Subviews: The Future-Proof Way to Get Tab Bar Item Frames](https://gauravtakjaipur.medium.com/stop-accessing-uitabbar-subviews-the-future-proof-way-to-get-tab-bar-item-frames-b8cd4dedc558?source=rss-223110f75295------2) *(Published on 11 Feb 2026)*
 - [some View vs AnyView in SwiftUI : The Secret Every iOS Developer Should Understand for Best iOS…](https://gauravtakjaipur.medium.com/some-view-vs-anyview-in-swiftui-the-secret-every-ios-developer-should-understand-for-best-ios-b27e258eff9a?source=rss-223110f75295------2) *(Published on 9 Feb 2026)*
 - [Step-by-Step Guide: How to Use and Implement Custom SwiftUI Modifiers to Make Your Code Clean and…](https://gauravtakjaipur.medium.com/step-by-step-guide-how-to-use-and-implement-custom-swiftui-modifiers-to-make-your-code-clean-and-ac91afb009be?source=rss-223110f75295------2) *(Published on 5 Feb 2026)*
 - [iOS Concurrency Done Right: Concepts Every iOS Developer Should Understand and Implement](https://gauravtakjaipur.medium.com/ios-concurrency-done-right-concepts-every-ios-developer-should-understand-and-implement-c7defa5ac26b?source=rss-223110f75295------2) *(Published on 30 Jan 2026)*
@@ -84,7 +85,6 @@
 - [Mastering iOS Background Execution: Background Modes, Tasks, and Real-World Use Cases](https://gauravtakjaipur.medium.com/mastering-ios-background-execution-background-modes-tasks-and-real-world-use-cases-4184f9030032?source=rss-223110f75295------2) *(Published on 25 Jan 2026)*
 - [Understanding defer in Swift: The Clean, Safe, and Predictable Code Pattern Every iOS Developer…](https://gauravtakjaipur.medium.com/understanding-defer-in-swift-the-clean-safe-and-predictable-code-pattern-every-ios-developer-2024baa00362?source=rss-223110f75295------2) *(Published on 24 Jan 2026)*
 - [Building a Modern File Picker in SwiftUI with Async/Await → From Basics to Production-Ready](https://gauravtakjaipur.medium.com/building-a-modern-file-picker-in-swiftui-with-async-await-from-basics-to-production-ready-94cb8c71754c?source=rss-223110f75295------2) *(Published on 23 Jan 2026)*
-- [The Ultimate Swift Revision Roadmap: Senior-Level Concepts With Real Code Examples](https://gauravtakjaipur.medium.com/the-ultimate-swift-revision-roadmap-senior-level-concepts-with-real-code-examples-9fa79ed958eb?source=rss-223110f75295------2) *(Published on 16 Jan 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
