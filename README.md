@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [Android Security & Best With Real-World Explanations & Production Examples](https://gauravtakjaipur.medium.com/android-security-best-with-real-world-explanations-production-examples-51efbe14b9b8?source=rss-223110f75295------2) *(Published on 20 Feb 2026)*
 - [Alamofire vs URLSession: The Real Difference Every iOS Developer Must Understand](https://gauravtakjaipur.medium.com/alamofire-vs-urlsession-the-real-difference-every-ios-developer-must-understand-9342385173b1?source=rss-223110f75295------2) *(Published on 16 Feb 2026)*
 - [Stop Accessing UITabBar Subviews: The Future-Proof Way to Get Tab Bar Item Frames](https://gauravtakjaipur.medium.com/stop-accessing-uitabbar-subviews-the-future-proof-way-to-get-tab-bar-item-frames-b8cd4dedc558?source=rss-223110f75295------2) *(Published on 11 Feb 2026)*
 - [some View vs AnyView in SwiftUI : The Secret Every iOS Developer Should Understand for Best iOS…](https://gauravtakjaipur.medium.com/some-view-vs-anyview-in-swiftui-the-secret-every-ios-developer-should-understand-for-best-ios-b27e258eff9a?source=rss-223110f75295------2) *(Published on 9 Feb 2026)*
@@ -84,7 +85,6 @@
 - [Why Our iOS App Stops Working in the Background: A Deep Dive into App Suspension & Wake-Up](https://gauravtakjaipur.medium.com/why-our-ios-app-stops-working-in-the-background-a-deep-dive-into-app-suspension-wake-up-6e3dd2de1d60?source=rss-223110f75295------2) *(Published on 26 Jan 2026)*
 - [How to Publish an iOS App on the App Store (Beginner-Friendly Guide)](https://gauravtakjaipur.medium.com/how-to-publish-an-ios-app-on-the-app-store-beginner-friendly-guide-3b188429cc65?source=rss-223110f75295------2) *(Published on 25 Jan 2026)*
 - [Mastering iOS Background Execution: Background Modes, Tasks, and Real-World Use Cases](https://gauravtakjaipur.medium.com/mastering-ios-background-execution-background-modes-tasks-and-real-world-use-cases-4184f9030032?source=rss-223110f75295------2) *(Published on 25 Jan 2026)*
-- [Understanding defer in Swift: The Clean, Safe, and Predictable Code Pattern Every iOS Developer…](https://gauravtakjaipur.medium.com/understanding-defer-in-swift-the-clean-safe-and-predictable-code-pattern-every-ios-developer-2024baa00362?source=rss-223110f75295------2) *(Published on 24 Jan 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
