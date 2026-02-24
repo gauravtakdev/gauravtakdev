@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [9 Advanced SwiftUI Techniques : Every iOS Developers Should Follow(With Real Code Examples)](https://gauravtakjaipur.medium.com/9-advanced-swiftui-techniques-every-ios-developers-should-follow-with-real-code-examples-7302dca810c5?source=rss-223110f75295------2) *(Published on 24 Feb 2026)*
 - [Android Security & Best With Real-World Explanations & Production Examples](https://gauravtakjaipur.medium.com/android-security-best-with-real-world-explanations-production-examples-51efbe14b9b8?source=rss-223110f75295------2) *(Published on 20 Feb 2026)*
 - [Alamofire vs URLSession: The Real Difference Every iOS Developer Must Understand](https://gauravtakjaipur.medium.com/alamofire-vs-urlsession-the-real-difference-every-ios-developer-must-understand-9342385173b1?source=rss-223110f75295------2) *(Published on 16 Feb 2026)*
 - [Stop Accessing UITabBar Subviews: The Future-Proof Way to Get Tab Bar Item Frames](https://gauravtakjaipur.medium.com/stop-accessing-uitabbar-subviews-the-future-proof-way-to-get-tab-bar-item-frames-b8cd4dedc558?source=rss-223110f75295------2) *(Published on 11 Feb 2026)*
@@ -84,7 +85,6 @@
 - [Can You Predict the Output? Concurrency Questions That Break Most Interviews](https://gauravtakjaipur.medium.com/can-you-predict-the-output-concurrency-questions-that-break-most-interviews-77cd13068eb2?source=rss-223110f75295------2) *(Published on 28 Jan 2026)*
 - [Why Our iOS App Stops Working in the Background: A Deep Dive into App Suspension & Wake-Up](https://gauravtakjaipur.medium.com/why-our-ios-app-stops-working-in-the-background-a-deep-dive-into-app-suspension-wake-up-6e3dd2de1d60?source=rss-223110f75295------2) *(Published on 26 Jan 2026)*
 - [How to Publish an iOS App on the App Store (Beginner-Friendly Guide)](https://gauravtakjaipur.medium.com/how-to-publish-an-ios-app-on-the-app-store-beginner-friendly-guide-3b188429cc65?source=rss-223110f75295------2) *(Published on 25 Jan 2026)*
-- [Mastering iOS Background Execution: Background Modes, Tasks, and Real-World Use Cases](https://gauravtakjaipur.medium.com/mastering-ios-background-execution-background-modes-tasks-and-real-world-use-cases-4184f9030032?source=rss-223110f75295------2) *(Published on 25 Jan 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
