@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [What Are Curried Functions in Swift? Why Every iOS Developer Should Care About Them](https://gauravtakjaipur.medium.com/what-are-curried-functions-in-swift-why-every-ios-developer-should-care-about-them-5fbf37e24370?source=rss-223110f75295------2) *(Published on 3 Mar 2026)*
 - [9 Advanced SwiftUI Techniques : Every iOS Developers Should Follow(With Real Code Examples)](https://gauravtakjaipur.medium.com/9-advanced-swiftui-techniques-every-ios-developers-should-follow-with-real-code-examples-7302dca810c5?source=rss-223110f75295------2) *(Published on 24 Feb 2026)*
 - [Android Security & Best With Real-World Explanations & Production Examples](https://gauravtakjaipur.medium.com/android-security-best-with-real-world-explanations-production-examples-51efbe14b9b8?source=rss-223110f75295------2) *(Published on 20 Feb 2026)*
 - [Alamofire vs URLSession: The Real Difference Every iOS Developer Must Understand](https://gauravtakjaipur.medium.com/alamofire-vs-urlsession-the-real-difference-every-ios-developer-must-understand-9342385173b1?source=rss-223110f75295------2) *(Published on 16 Feb 2026)*
@@ -84,7 +85,6 @@
 - [iOS Concurrency Done Right: Concepts Every iOS Developer Should Understand and Implement](https://gauravtakjaipur.medium.com/ios-concurrency-done-right-concepts-every-ios-developer-should-understand-and-implement-c7defa5ac26b?source=rss-223110f75295------2) *(Published on 30 Jan 2026)*
 - [Can You Predict the Output? Concurrency Questions That Break Most Interviews](https://gauravtakjaipur.medium.com/can-you-predict-the-output-concurrency-questions-that-break-most-interviews-77cd13068eb2?source=rss-223110f75295------2) *(Published on 28 Jan 2026)*
 - [Why Our iOS App Stops Working in the Background: A Deep Dive into App Suspension & Wake-Up](https://gauravtakjaipur.medium.com/why-our-ios-app-stops-working-in-the-background-a-deep-dive-into-app-suspension-wake-up-6e3dd2de1d60?source=rss-223110f75295------2) *(Published on 26 Jan 2026)*
-- [How to Publish an iOS App on the App Store (Beginner-Friendly Guide)](https://gauravtakjaipur.medium.com/how-to-publish-an-ios-app-on-the-app-store-beginner-friendly-guide-3b188429cc65?source=rss-223110f75295------2) *(Published on 25 Jan 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
