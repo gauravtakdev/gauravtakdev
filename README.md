@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [11 SwiftUI Modifiers of iOS 26+ You Probably Missed](https://gauravtakjaipur.medium.com/11-swiftui-modifiers-of-ios-26-you-probably-missed-c789882958a0?source=rss-223110f75295------2) *(Published on 12 Mar 2026)*
 - [Why VIPER Architecture is a Game-Changer for Scalable iOS Apps (With Code Examples)](https://gauravtakjaipur.medium.com/why-viper-architecture-is-a-game-changer-for-scalable-ios-apps-with-code-examples-84834d5d6526?source=rss-223110f75295------2) *(Published on 9 Mar 2026)*
 - [What Are Curried Functions in Swift? Why Every iOS Developer Should Care About Them](https://gauravtakjaipur.medium.com/what-are-curried-functions-in-swift-why-every-ios-developer-should-care-about-them-5fbf37e24370?source=rss-223110f75295------2) *(Published on 3 Mar 2026)*
 - [9 Advanced SwiftUI Techniques : Every iOS Developers Should Follow(With Real Code Examples)](https://gauravtakjaipur.medium.com/9-advanced-swiftui-techniques-every-ios-developers-should-follow-with-real-code-examples-7302dca810c5?source=rss-223110f75295------2) *(Published on 24 Feb 2026)*
@@ -84,7 +85,6 @@
 - [some View vs AnyView in SwiftUI : The Secret Every iOS Developer Should Understand for Best iOS…](https://gauravtakjaipur.medium.com/some-view-vs-anyview-in-swiftui-the-secret-every-ios-developer-should-understand-for-best-ios-b27e258eff9a?source=rss-223110f75295------2) *(Published on 9 Feb 2026)*
 - [Step-by-Step Guide: How to Use and Implement Custom SwiftUI Modifiers to Make Your Code Clean and…](https://gauravtakjaipur.medium.com/step-by-step-guide-how-to-use-and-implement-custom-swiftui-modifiers-to-make-your-code-clean-and-ac91afb009be?source=rss-223110f75295------2) *(Published on 5 Feb 2026)*
 - [iOS Concurrency Done Right: Concepts Every iOS Developer Should Understand and Implement](https://gauravtakjaipur.medium.com/ios-concurrency-done-right-concepts-every-ios-developer-should-understand-and-implement-c7defa5ac26b?source=rss-223110f75295------2) *(Published on 30 Jan 2026)*
-- [Can You Predict the Output? Concurrency Questions That Break Most Interviews](https://gauravtakjaipur.medium.com/can-you-predict-the-output-concurrency-questions-that-break-most-interviews-77cd13068eb2?source=rss-223110f75295------2) *(Published on 28 Jan 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
