@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [@AppStorage in SwiftUI: A Complete Developer’s Guide with Real Examples](https://gauravtakjaipur.medium.com/appstorage-in-swiftui-a-complete-developers-guide-with-real-examples-26b7efe8e79d?source=rss-223110f75295------2) *(Published on 23 Mar 2026)*
 - [Live Activities in iOS: The Complete Developer Guide to ActivityKit, Dynamic Island, and Real-Time…](https://gauravtakjaipur.medium.com/live-activities-in-ios-the-complete-developer-guide-to-activitykit-dynamic-island-and-real-time-b8c528788a0e?source=rss-223110f75295------2) *(Published on 20 Mar 2026)*
 - [11 SwiftUI Modifiers of iOS 26+ You Probably Missed](https://gauravtakjaipur.medium.com/11-swiftui-modifiers-of-ios-26-you-probably-missed-c789882958a0?source=rss-223110f75295------2) *(Published on 12 Mar 2026)*
 - [Why VIPER Architecture is a Game-Changer for Scalable iOS Apps (With Code Examples)](https://gauravtakjaipur.medium.com/why-viper-architecture-is-a-game-changer-for-scalable-ios-apps-with-code-examples-84834d5d6526?source=rss-223110f75295------2) *(Published on 9 Mar 2026)*
@@ -84,7 +85,6 @@
 - [Alamofire vs URLSession: The Real Difference Every iOS Developer Must Understand](https://gauravtakjaipur.medium.com/alamofire-vs-urlsession-the-real-difference-every-ios-developer-must-understand-9342385173b1?source=rss-223110f75295------2) *(Published on 16 Feb 2026)*
 - [Stop Accessing UITabBar Subviews: The Future-Proof Way to Get Tab Bar Item Frames](https://gauravtakjaipur.medium.com/stop-accessing-uitabbar-subviews-the-future-proof-way-to-get-tab-bar-item-frames-b8cd4dedc558?source=rss-223110f75295------2) *(Published on 11 Feb 2026)*
 - [some View vs AnyView in SwiftUI : The Secret Every iOS Developer Should Understand for Best iOS…](https://gauravtakjaipur.medium.com/some-view-vs-anyview-in-swiftui-the-secret-every-ios-developer-should-understand-for-best-ios-b27e258eff9a?source=rss-223110f75295------2) *(Published on 9 Feb 2026)*
-- [Step-by-Step Guide: How to Use and Implement Custom SwiftUI Modifiers to Make Your Code Clean and…](https://gauravtakjaipur.medium.com/step-by-step-guide-how-to-use-and-implement-custom-swiftui-modifiers-to-make-your-code-clean-and-ac91afb009be?source=rss-223110f75295------2) *(Published on 5 Feb 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
