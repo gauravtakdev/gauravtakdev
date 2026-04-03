@@ -76,6 +76,7 @@
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
 - [Step-by-Step Guide: Implement Dependency Injection in Swift & iOS (Complete Deep Dive)](https://gauravtakjaipur.medium.com/step-by-step-guide-implement-dependency-injection-in-swift-ios-complete-deep-dive-074ba9a22abc?source=rss-223110f75295------2) *(Published on 2 Apr 2026)*
+- [Copy-On-Write in Swift: The Hidden Performance Superpower Every iOS Developer Must Master](https://blog.devgenius.io/copy-on-write-in-swift-the-hidden-performance-superpower-every-ios-developer-must-master-ce8c02e40444?source=rss-223110f75295------2) *(Published on 26 Mar 2026)*
 - [@AppStorage in SwiftUI: A Complete Developer’s Guide with Real Examples](https://gauravtakjaipur.medium.com/appstorage-in-swiftui-a-complete-developers-guide-with-real-examples-26b7efe8e79d?source=rss-223110f75295------2) *(Published on 23 Mar 2026)*
 - [Live Activities in iOS: The Complete Developer Guide to ActivityKit, Dynamic Island, and Real-Time…](https://gauravtakjaipur.medium.com/live-activities-in-ios-the-complete-developer-guide-to-activitykit-dynamic-island-and-real-time-b8c528788a0e?source=rss-223110f75295------2) *(Published on 20 Mar 2026)*
 - [11 SwiftUI Modifiers of iOS 26+ You Probably Missed](https://gauravtakjaipur.medium.com/11-swiftui-modifiers-of-ios-26-you-probably-missed-c789882958a0?source=rss-223110f75295------2) *(Published on 12 Mar 2026)*
@@ -84,7 +85,6 @@
 - [9 Advanced SwiftUI Techniques : Every iOS Developers Should Follow(With Real Code Examples)](https://gauravtakjaipur.medium.com/9-advanced-swiftui-techniques-every-ios-developers-should-follow-with-real-code-examples-7302dca810c5?source=rss-223110f75295------2) *(Published on 24 Feb 2026)*
 - [Android Security & Best With Real-World Explanations & Production Examples](https://gauravtakjaipur.medium.com/android-security-best-with-real-world-explanations-production-examples-51efbe14b9b8?source=rss-223110f75295------2) *(Published on 20 Feb 2026)*
 - [Alamofire vs URLSession: The Real Difference Every iOS Developer Must Understand](https://gauravtakjaipur.medium.com/alamofire-vs-urlsession-the-real-difference-every-ios-developer-must-understand-9342385173b1?source=rss-223110f75295------2) *(Published on 16 Feb 2026)*
-- [Stop Accessing UITabBar Subviews: The Future-Proof Way to Get Tab Bar Item Frames](https://gauravtakjaipur.medium.com/stop-accessing-uitabbar-subviews-the-future-proof-way-to-get-tab-bar-item-frames-b8cd4dedc558?source=rss-223110f75295------2) *(Published on 11 Feb 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
