@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [11 iOS Performance Secrets That Separate Good Apps from Great Ones (With Real Code)](https://gauravtakjaipur.medium.com/11-ios-performance-secrets-that-separate-good-apps-from-great-ones-with-real-code-706309168f92?source=rss-223110f75295------2) *(Published on 6 May 2026)*
 - [From App Code to Reusable Powerhouse: Building Your First iOS SPM Framework](https://gauravtakjaipur.medium.com/from-app-code-to-reusable-powerhouse-building-your-first-ios-spm-framework-1bacea055aac?source=rss-223110f75295------2) *(Published on 5 May 2026)*
 - [11 SwiftUI Modifiers in iOS 26+ That Can Improve Your App Performance Exponentially (But Most iOS…](https://gauravtakjaipur.medium.com/11-swiftui-modifiers-in-ios-26-that-can-improve-your-app-performance-exponentially-but-most-ios-ac6d441a8655?source=rss-223110f75295------2) *(Published on 6 Apr 2026)*
 - [@AppStorage in SwiftUI: A Complete Developer’s Guide with Real Examples](https://gauravtakjaipur.medium.com/appstorage-in-swiftui-a-complete-developers-guide-with-real-examples-26b7efe8e79d?source=rss-223110f75295------2) *(Published on 23 Mar 2026)*
@@ -84,7 +85,6 @@
 - [9 Advanced SwiftUI Techniques : Every iOS Developers Should Follow(With Real Code Examples)](https://gauravtakjaipur.medium.com/9-advanced-swiftui-techniques-every-ios-developers-should-follow-with-real-code-examples-7302dca810c5?source=rss-223110f75295------2) *(Published on 24 Feb 2026)*
 - [Android Security & Best With Real-World Explanations & Production Examples](https://gauravtakjaipur.medium.com/android-security-best-with-real-world-explanations-production-examples-51efbe14b9b8?source=rss-223110f75295------2) *(Published on 20 Feb 2026)*
 - [Alamofire vs URLSession: The Real Difference Every iOS Developer Must Understand](https://gauravtakjaipur.medium.com/alamofire-vs-urlsession-the-real-difference-every-ios-developer-must-understand-9342385173b1?source=rss-223110f75295------2) *(Published on 16 Feb 2026)*
-- [Stop Accessing UITabBar Subviews: The Future-Proof Way to Get Tab Bar Item Frames](https://gauravtakjaipur.medium.com/stop-accessing-uitabbar-subviews-the-future-proof-way-to-get-tab-bar-item-frames-b8cd4dedc558?source=rss-223110f75295------2) *(Published on 11 Feb 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
