@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [iOS User Intent Deep Dive: Build Smarter Apps with App Intents, Siri, Spotlight & Apple…](https://gauravtakjaipur.medium.com/ios-user-intent-deep-dive-build-smarter-apps-with-app-intents-siri-spotlight-apple-1be180ee3126?source=rss-223110f75295------2) *(Published on 17 Jun 2026)*
 - [iOS 27 Beta Deep Dive: 15 Features, APIs & Hidden Changes Every iOS Developer Must Know](https://gauravtakjaipur.medium.com/ios-27-beta-deep-dive-15-features-apis-hidden-changes-every-ios-developer-must-know-3e1085127b2b?source=rss-223110f75295------2) *(Published on 15 Jun 2026)*
 - [WWDC 2026 Deep Dive: What’s New in iOS 27 for iOS Developers (With Real Code Examples)](https://gauravtakjaipur.medium.com/wwdc-2026-deep-dive-whats-new-in-ios-27-for-ios-developers-with-real-code-examples-011056e18f07?source=rss-223110f75295------2) *(Published on 9 Jun 2026)*
 - [Mastering Opaque Return Types in Swift: The Hidden Power of some in Swift](https://gauravtakjaipur.medium.com/mastering-opaque-return-types-in-swift-the-hidden-power-of-some-in-swift-ece093c29030?source=rss-223110f75295------2) *(Published on 4 Jun 2026)*
@@ -84,7 +85,6 @@
 - [11 SwiftUI Modifiers in iOS 26+ That Can Improve Your App Performance Exponentially (But Most iOS…](https://gauravtakjaipur.medium.com/11-swiftui-modifiers-in-ios-26-that-can-improve-your-app-performance-exponentially-but-most-ios-ac6d441a8655?source=rss-223110f75295------2) *(Published on 6 Apr 2026)*
 - [@AppStorage in SwiftUI: A Complete Developer’s Guide with Real Examples](https://gauravtakjaipur.medium.com/appstorage-in-swiftui-a-complete-developers-guide-with-real-examples-26b7efe8e79d?source=rss-223110f75295------2) *(Published on 23 Mar 2026)*
 - [11 SwiftUI Modifiers of iOS 26+ You Probably Missed](https://gauravtakjaipur.medium.com/11-swiftui-modifiers-of-ios-26-you-probably-missed-c789882958a0?source=rss-223110f75295------2) *(Published on 12 Mar 2026)*
-- [Why VIPER Architecture is a Game-Changer for Scalable iOS Apps (With Code Examples)](https://gauravtakjaipur.medium.com/why-viper-architecture-is-a-game-changer-for-scalable-ios-apps-with-code-examples-84834d5d6526?source=rss-223110f75295------2) *(Published on 9 Mar 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
