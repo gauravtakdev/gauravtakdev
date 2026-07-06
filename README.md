@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [Build On-Device AI Apps with iOS 26: A Complete Foundation Models Guide](https://gauravtakjaipur.medium.com/build-on-device-ai-apps-with-ios-26-a-complete-foundation-models-guide-82539eb4aabd?source=rss-223110f75295------2) *(Published on 6 Jul 2026)*
 - [Building Smarter iOS Apps with Apple Intelligence APIs (With Real Swift Code)](https://gauravtakjaipur.medium.com/building-smarter-ios-apps-with-apple-intelligence-apis-with-real-swift-code-4e7a54eeccf7?source=rss-223110f75295------2) *(Published on 24 Jun 2026)*
 - [iOS 27: 10 Amazing New Features Every iPhone User Should Know in 2026](https://gauravtakjaipur.medium.com/ios-27-10-amazing-new-features-every-iphone-user-should-know-in-2026-4ff451fd23af?source=rss-223110f75295------2) *(Published on 18 Jun 2026)*
 - [iOS User Intent Deep Dive: Build Smarter Apps with App Intents, Siri, Spotlight & Apple…](https://gauravtakjaipur.medium.com/ios-user-intent-deep-dive-build-smarter-apps-with-app-intents-siri-spotlight-apple-1be180ee3126?source=rss-223110f75295------2) *(Published on 17 Jun 2026)*
@@ -84,7 +85,6 @@
 - [Advanced iOS Biometric Authentication with Face ID & Touch ID in SwiftUI](https://gauravtakjaipur.medium.com/advanced-ios-biometric-authentication-with-face-id-touch-id-in-swiftui-899bf0b4272b?source=rss-223110f75295------2) *(Published on 13 May 2026)*
 - [11 iOS Performance Secrets That Separate Good Apps from Great Ones (With Real Code)](https://gauravtakjaipur.medium.com/11-ios-performance-secrets-that-separate-good-apps-from-great-ones-with-real-code-706309168f92?source=rss-223110f75295------2) *(Published on 6 May 2026)*
 - [From App Code to Reusable Powerhouse: Building Your First iOS SPM Framework](https://gauravtakjaipur.medium.com/from-app-code-to-reusable-powerhouse-building-your-first-ios-spm-framework-1bacea055aac?source=rss-223110f75295------2) *(Published on 5 May 2026)*
-- [11 SwiftUI Modifiers in iOS 26+ That Can Improve Your App Performance Exponentially (But Most iOS…](https://gauravtakjaipur.medium.com/11-swiftui-modifiers-in-ios-26-that-can-improve-your-app-performance-exponentially-but-most-ios-ac6d441a8655?source=rss-223110f75295------2) *(Published on 6 Apr 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
