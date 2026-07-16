@@ -75,6 +75,8 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [Core ML vs Apple Intelligence vs OpenAI APIs → Part 3: OpenAI APIs, Hybrid AI Architecture, and…](https://gauravtakjaipur.medium.com/core-ml-vs-apple-intelligence-vs-openai-apis-part-3-openai-apis-hybrid-ai-architecture-and-0cc782725b37?source=rss-223110f75295------2) *(Published on 16 Jul 2026)*
+- [Core ML vs Apple Intelligence vs OpenAI APIs → Part 2: Apple Intelligence: Building Native AI…](https://gauravtakjaipur.medium.com/core-ml-vs-apple-intelligence-vs-openai-apis-part-2-apple-intelligence-building-native-ai-f49b30b0a2b7?source=rss-223110f75295------2) *(Published on 15 Jul 2026)*
 - [Core ML vs Apple Intelligence vs OpenAI APIs: The Complete Guide to Building AI-Powered iOS Apps in…](https://gauravtakjaipur.medium.com/core-ml-vs-apple-intelligence-vs-openai-apis-the-complete-guide-to-building-ai-powered-ios-apps-in-3e808e3d6621?source=rss-223110f75295------2) *(Published on 15 Jul 2026)*
 - [Build On-Device AI Apps with iOS 26: A Complete Foundation Models Guide](https://gauravtakjaipur.medium.com/build-on-device-ai-apps-with-ios-26-a-complete-foundation-models-guide-82539eb4aabd?source=rss-223110f75295------2) *(Published on 6 Jul 2026)*
 - [Building Smarter iOS Apps with Apple Intelligence APIs (With Real Swift Code)](https://gauravtakjaipur.medium.com/building-smarter-ios-apps-with-apple-intelligence-apis-with-real-swift-code-4e7a54eeccf7?source=rss-223110f75295------2) *(Published on 24 Jun 2026)*
@@ -83,8 +85,6 @@
 - [iOS 27 Beta Deep Dive: 15 Features, APIs & Hidden Changes Every iOS Developer Must Know](https://gauravtakjaipur.medium.com/ios-27-beta-deep-dive-15-features-apis-hidden-changes-every-ios-developer-must-know-3e1085127b2b?source=rss-223110f75295------2) *(Published on 15 Jun 2026)*
 - [WWDC 2026 Deep Dive: What’s New in iOS 27 for iOS Developers (With Real Code Examples)](https://gauravtakjaipur.medium.com/wwdc-2026-deep-dive-whats-new-in-ios-27-for-ios-developers-with-real-code-examples-011056e18f07?source=rss-223110f75295------2) *(Published on 9 Jun 2026)*
 - [Mastering Opaque Return Types in Swift: The Hidden Power of some in Swift](https://gauravtakjaipur.medium.com/mastering-opaque-return-types-in-swift-the-hidden-power-of-some-in-swift-ece093c29030?source=rss-223110f75295------2) *(Published on 4 Jun 2026)*
-- [Advanced iOS Biometric Authentication with Face ID & Touch ID in SwiftUI](https://gauravtakjaipur.medium.com/advanced-ios-biometric-authentication-with-face-id-touch-id-in-swiftui-899bf0b4272b?source=rss-223110f75295------2) *(Published on 13 May 2026)*
-- [11 iOS Performance Secrets That Separate Good Apps from Great Ones (With Real Code)](https://gauravtakjaipur.medium.com/11-ios-performance-secrets-that-separate-good-apps-from-great-ones-with-real-code-706309168f92?source=rss-223110f75295------2) *(Published on 6 May 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
