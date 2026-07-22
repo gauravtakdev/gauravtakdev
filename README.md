@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [11 Best iPhone Apps You Should Install in 2026 (Productivity, Travel, Photos & More)](https://gauravtakjaipur.medium.com/11-best-iphone-apps-you-should-install-in-2026-productivity-travel-photos-more-e5d8658d917a?source=rss-223110f75295------2) *(Published on 21 Jul 2026)*
 - [Build an Apple-Style Interactive Card Slider in SwiftUI (Step-by-Step Guide)](https://gauravtakjaipur.medium.com/build-an-apple-style-interactive-card-slider-in-swiftui-step-by-step-guide-4f804ba3c03b?source=rss-223110f75295------2) *(Published on 21 Jul 2026)*
 - [Mastering GeometryReader, compositingGroup(), and drawingGroup() in SwiftUI: A Practical Guide to…](https://gauravtakjaipur.medium.com/mastering-geometryreader-compositinggroup-and-drawinggroup-in-swiftui-a-practical-guide-to-fb40d6f943c8?source=rss-223110f75295------2) *(Published on 20 Jul 2026)*
 - [Core ML vs Apple Intelligence vs OpenAI APIs → Part 3: OpenAI APIs, Hybrid AI Architecture, and…](https://gauravtakjaipur.medium.com/core-ml-vs-apple-intelligence-vs-openai-apis-part-3-openai-apis-hybrid-ai-architecture-and-0cc782725b37?source=rss-223110f75295------2) *(Published on 16 Jul 2026)*
@@ -84,7 +85,6 @@
 - [Building Smarter iOS Apps with Apple Intelligence APIs (With Real Swift Code)](https://gauravtakjaipur.medium.com/building-smarter-ios-apps-with-apple-intelligence-apis-with-real-swift-code-4e7a54eeccf7?source=rss-223110f75295------2) *(Published on 24 Jun 2026)*
 - [iOS 27: 10 Amazing New Features Every iPhone User Should Know in 2026](https://gauravtakjaipur.medium.com/ios-27-10-amazing-new-features-every-iphone-user-should-know-in-2026-4ff451fd23af?source=rss-223110f75295------2) *(Published on 18 Jun 2026)*
 - [iOS User Intent Deep Dive: Build Smarter Apps with App Intents, Siri, Spotlight & Apple…](https://gauravtakjaipur.medium.com/ios-user-intent-deep-dive-build-smarter-apps-with-app-intents-siri-spotlight-apple-1be180ee3126?source=rss-223110f75295------2) *(Published on 17 Jun 2026)*
-- [iOS 27 Beta Deep Dive: 15 Features, APIs & Hidden Changes Every iOS Developer Must Know](https://gauravtakjaipur.medium.com/ios-27-beta-deep-dive-15-features-apis-hidden-changes-every-ios-developer-must-know-3e1085127b2b?source=rss-223110f75295------2) *(Published on 15 Jun 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
