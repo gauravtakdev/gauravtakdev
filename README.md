@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [I Reverse-Engineered Every Apple Design Award Winner from WWDC 2026 → Here’s What Every iOS…](https://gauravtakjaipur.medium.com/i-reverse-engineered-every-apple-design-award-winner-from-wwdc-2026-heres-what-every-ios-27dda2714be5?source=rss-223110f75295------2) *(Published on 12 Aug 2026)*
 - [ 12 Apple Design Award Winners 2026 Every iOS Developer Should Study (And Why They Won)](https://gauravtakjaipur.medium.com/12-apple-design-award-winners-2026-every-ios-developer-should-study-and-why-they-won-d3c0651aa208?source=rss-223110f75295------2) *(Published on 10 Aug 2026)*
 - [11 Best iPhone Apps You Should Install in 2026 (Productivity, Travel, Photos & More)](https://gauravtakjaipur.medium.com/11-best-iphone-apps-you-should-install-in-2026-productivity-travel-photos-more-e5d8658d917a?source=rss-223110f75295------2) *(Published on 21 Jul 2026)*
 - [Build an Apple-Style Interactive Card Slider in SwiftUI (Step-by-Step Guide)](https://gauravtakjaipur.medium.com/build-an-apple-style-interactive-card-slider-in-swiftui-step-by-step-guide-4f804ba3c03b?source=rss-223110f75295------2) *(Published on 21 Jul 2026)*
@@ -84,7 +85,6 @@
 - [Core ML vs Apple Intelligence vs OpenAI APIs: The Complete Guide to Building AI-Powered iOS Apps in…](https://gauravtakjaipur.medium.com/core-ml-vs-apple-intelligence-vs-openai-apis-the-complete-guide-to-building-ai-powered-ios-apps-in-3e808e3d6621?source=rss-223110f75295------2) *(Published on 15 Jul 2026)*
 - [Build On-Device AI Apps with iOS 26: A Complete Foundation Models Guide](https://gauravtakjaipur.medium.com/build-on-device-ai-apps-with-ios-26-a-complete-foundation-models-guide-82539eb4aabd?source=rss-223110f75295------2) *(Published on 6 Jul 2026)*
 - [Building Smarter iOS Apps with Apple Intelligence APIs (With Real Swift Code)](https://gauravtakjaipur.medium.com/building-smarter-ios-apps-with-apple-intelligence-apis-with-real-swift-code-4e7a54eeccf7?source=rss-223110f75295------2) *(Published on 24 Jun 2026)*
-- [iOS 27: 10 Amazing New Features Every iPhone User Should Know in 2026](https://gauravtakjaipur.medium.com/ios-27-10-amazing-new-features-every-iphone-user-should-know-in-2026-4ff451fd23af?source=rss-223110f75295------2) *(Published on 18 Jun 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
