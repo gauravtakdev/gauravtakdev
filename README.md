@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [25 iOS Interview Questions Every Swift Developer Should Know in 2026 With Real-World Explanations](https://gauravtakjaipur.medium.com/25-ios-interview-questions-every-swift-developer-should-know-in-2026-with-real-world-explanations-cbae5066163c?source=rss-223110f75295------2) *(Published on 18 Aug 2026)*
 - [11 Best iPhone Tips That Will Make Your iPhone Faster, Smarter & More Productive in 2026](https://gauravtakjaipur.medium.com/11-best-iphone-tips-that-will-make-your-iphone-faster-smarter-more-productive-in-2026-55d91081d3b6?source=rss-223110f75295------2) *(Published on 17 Aug 2026)*
 - [I Reverse-Engineered Every Apple Design Award Winner from WWDC 2026 → Here’s What Every iOS…](https://gauravtakjaipur.medium.com/i-reverse-engineered-every-apple-design-award-winner-from-wwdc-2026-heres-what-every-ios-27dda2714be5?source=rss-223110f75295------2) *(Published on 12 Aug 2026)*
 - [ 12 Apple Design Award Winners 2026 Every iOS Developer Should Study (And Why They Won)](https://gauravtakjaipur.medium.com/12-apple-design-award-winners-2026-every-ios-developer-should-study-and-why-they-won-d3c0651aa208?source=rss-223110f75295------2) *(Published on 10 Aug 2026)*
@@ -84,7 +85,6 @@
 - [Core ML vs Apple Intelligence vs OpenAI APIs → Part 3: OpenAI APIs, Hybrid AI Architecture, and…](https://gauravtakjaipur.medium.com/core-ml-vs-apple-intelligence-vs-openai-apis-part-3-openai-apis-hybrid-ai-architecture-and-0cc782725b37?source=rss-223110f75295------2) *(Published on 16 Jul 2026)*
 - [Core ML vs Apple Intelligence vs OpenAI APIs → Part 2: Apple Intelligence: Building Native AI…](https://gauravtakjaipur.medium.com/core-ml-vs-apple-intelligence-vs-openai-apis-part-2-apple-intelligence-building-native-ai-f49b30b0a2b7?source=rss-223110f75295------2) *(Published on 15 Jul 2026)*
 - [Core ML vs Apple Intelligence vs OpenAI APIs: The Complete Guide to Building AI-Powered iOS Apps in…](https://gauravtakjaipur.medium.com/core-ml-vs-apple-intelligence-vs-openai-apis-the-complete-guide-to-building-ai-powered-ios-apps-in-3e808e3d6621?source=rss-223110f75295------2) *(Published on 15 Jul 2026)*
-- [Build On-Device AI Apps with iOS 26: A Complete Foundation Models Guide](https://gauravtakjaipur.medium.com/build-on-device-ai-apps-with-ios-26-a-complete-foundation-models-guide-82539eb4aabd?source=rss-223110f75295------2) *(Published on 6 Jul 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
