@@ -103,7 +103,7 @@
 </p>
 
 ---
-
+<!--
 ### 🏆 GitHub Achievements  
 
 <p align="center">
@@ -111,7 +111,7 @@
 </p>
 
 ---
-
+-->
 ### 🌍 Let’s Connect  
 
 <p align="center">
