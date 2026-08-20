@@ -93,11 +93,11 @@
 
 ### 📊 GitHub Insights  
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gauravtakdev&show_icons=true&theme=tokyonight" height="160px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravtakdev&theme=tokyonight" height="160px" />
 </p>
-
+-->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravtakdev&theme=tokyonight" />
 </p>
