@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [Swift Loops Aren’t Just Syntax: How Senior iOS Engineers Choose the Right One](https://gauravtakjaipur.medium.com/swift-loops-arent-just-syntax-how-senior-ios-engineers-choose-the-right-one-fd96aee11b4a?source=rss-223110f75295------2) *(Published on 27 Aug 2026)*
 - [How iOS Apps AutoFill Payment OTPs Without SMS Permission Using SwiftUI Way](https://gauravtakjaipur.medium.com/how-ios-apps-autofill-payment-otps-without-sms-permission-using-swiftui-way-00b0af7ae6b8?source=rss-223110f75295------2) *(Published on 26 Aug 2026)*
 - [11 Best iPhone Tips That Will Make Your iPhone Faster, Smarter & More Productive in 2026](https://gauravtakjaipur.medium.com/11-best-iphone-tips-that-will-make-your-iphone-faster-smarter-more-productive-in-2026-55d91081d3b6?source=rss-223110f75295------2) *(Published on 17 Aug 2026)*
 - [I Reverse-Engineered Every Apple Design Award Winner from WWDC 2026 → Here’s What Every iOS…](https://gauravtakjaipur.medium.com/i-reverse-engineered-every-apple-design-award-winner-from-wwdc-2026-heres-what-every-ios-27dda2714be5?source=rss-223110f75295------2) *(Published on 12 Aug 2026)*
@@ -84,7 +85,6 @@
 - [Mastering GeometryReader, compositingGroup(), and drawingGroup() in SwiftUI: A Practical Guide to…](https://gauravtakjaipur.medium.com/mastering-geometryreader-compositinggroup-and-drawinggroup-in-swiftui-a-practical-guide-to-fb40d6f943c8?source=rss-223110f75295------2) *(Published on 20 Jul 2026)*
 - [Core ML vs Apple Intelligence vs OpenAI APIs → Part 3: OpenAI APIs, Hybrid AI Architecture, and…](https://gauravtakjaipur.medium.com/core-ml-vs-apple-intelligence-vs-openai-apis-part-3-openai-apis-hybrid-ai-architecture-and-0cc782725b37?source=rss-223110f75295------2) *(Published on 16 Jul 2026)*
 - [Core ML vs Apple Intelligence vs OpenAI APIs → Part 2: Apple Intelligence: Building Native AI…](https://gauravtakjaipur.medium.com/core-ml-vs-apple-intelligence-vs-openai-apis-part-2-apple-intelligence-building-native-ai-f49b30b0a2b7?source=rss-223110f75295------2) *(Published on 15 Jul 2026)*
-- [Core ML vs Apple Intelligence vs OpenAI APIs: The Complete Guide to Building AI-Powered iOS Apps in…](https://gauravtakjaipur.medium.com/core-ml-vs-apple-intelligence-vs-openai-apis-the-complete-guide-to-building-ai-powered-ios-apps-in-3e808e3d6621?source=rss-223110f75295------2) *(Published on 15 Jul 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
