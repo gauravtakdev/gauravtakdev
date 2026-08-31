@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [11 Mac Apps I Wish I Installed on Day One →They Completely Changed My Workflow](https://gauravtakjaipur.medium.com/11-mac-apps-i-wish-i-installed-on-day-one-they-completely-changed-my-workflow-84ed66eaf507?source=rss-223110f75295------2) *(Published on 31 Aug 2026)*
 - [Swift Loops Aren’t Just Syntax: How Senior iOS Engineers Choose the Right One](https://gauravtakjaipur.medium.com/swift-loops-arent-just-syntax-how-senior-ios-engineers-choose-the-right-one-fd96aee11b4a?source=rss-223110f75295------2) *(Published on 27 Aug 2026)*
 - [How iOS Apps AutoFill Payment OTPs Without SMS Permission Using SwiftUI Way](https://gauravtakjaipur.medium.com/how-ios-apps-autofill-payment-otps-without-sms-permission-using-swiftui-way-00b0af7ae6b8?source=rss-223110f75295------2) *(Published on 26 Aug 2026)*
 - [5 AI Apps Every iPhone User Should Install in 2026 for Content Creation, Productivity, Learning &…](https://gauravtakjaipur.medium.com/5-ai-apps-every-iphone-user-should-install-in-2026-for-content-creation-productivity-learning-8ff361faa824?source=rss-223110f75295------2) *(Published on 24 Aug 2026)*
@@ -84,7 +85,6 @@
 - [ 12 Apple Design Award Winners 2026 Every iOS Developer Should Study (And Why They Won)](https://gauravtakjaipur.medium.com/12-apple-design-award-winners-2026-every-ios-developer-should-study-and-why-they-won-d3c0651aa208?source=rss-223110f75295------2) *(Published on 10 Aug 2026)*
 - [11 Best iPhone Apps You Should Install in 2026 (Productivity, Travel, Photos & More)](https://gauravtakjaipur.medium.com/11-best-iphone-apps-you-should-install-in-2026-productivity-travel-photos-more-e5d8658d917a?source=rss-223110f75295------2) *(Published on 21 Jul 2026)*
 - [Build an Apple-Style Interactive Card Slider in SwiftUI (Step-by-Step Guide)](https://gauravtakjaipur.medium.com/build-an-apple-style-interactive-card-slider-in-swiftui-step-by-step-guide-4f804ba3c03b?source=rss-223110f75295------2) *(Published on 21 Jul 2026)*
-- [Mastering GeometryReader, compositingGroup(), and drawingGroup() in SwiftUI: A Practical Guide to…](https://gauravtakjaipur.medium.com/mastering-geometryreader-compositinggroup-and-drawinggroup-in-swiftui-a-practical-guide-to-fb40d6f943c8?source=rss-223110f75295------2) *(Published on 20 Jul 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
