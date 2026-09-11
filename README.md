@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [5 Simple Tips to Make Your iPhone Faster and More Responsive](https://gauravtakjaipur.medium.com/5-simple-tips-to-make-your-iphone-faster-and-more-responsive-de2b837ab86d?source=rss-223110f75295------2) *(Published on 11 Sept 2026)*
 - [iPhone 18 Pro vs iPhone 17 Pro: Biggest Upgrades, Features and Should You Switch?](https://gauravtakjaipur.medium.com/iphone-18-pro-vs-iphone-17-pro-biggest-upgrades-features-and-should-you-switch-bed0cb8aa10e?source=rss-223110f75295------2) *(Published on 10 Sept 2026)*
 - [11 Mac Apps I Wish I Installed on Day One →They Completely Changed My Workflow](https://gauravtakjaipur.medium.com/11-mac-apps-i-wish-i-installed-on-day-one-they-completely-changed-my-workflow-84ed66eaf507?source=rss-223110f75295------2) *(Published on 31 Aug 2026)*
 - [Swift Loops Aren’t Just Syntax: How Senior iOS Engineers Choose the Right One](https://gauravtakjaipur.medium.com/swift-loops-arent-just-syntax-how-senior-ios-engineers-choose-the-right-one-fd96aee11b4a?source=rss-223110f75295------2) *(Published on 27 Aug 2026)*
@@ -84,7 +85,6 @@
 - [11 Best iPhone Tips That Will Make Your iPhone Faster, Smarter & More Productive in 2026](https://gauravtakjaipur.medium.com/11-best-iphone-tips-that-will-make-your-iphone-faster-smarter-more-productive-in-2026-55d91081d3b6?source=rss-223110f75295------2) *(Published on 17 Aug 2026)*
 - [Pixel 11 Is Here And Google Is Quietly Changing What a Smartphone Can Do](https://gauravtakjaipur.medium.com/pixel-11-is-here-and-google-is-quietly-changing-what-a-smartphone-can-do-b446bd5509bd?source=rss-223110f75295------2) *(Published on 14 Aug 2026)*
 - [I Reverse-Engineered Every Apple Design Award Winner from WWDC 2026 → Here’s What Every iOS…](https://gauravtakjaipur.medium.com/i-reverse-engineered-every-apple-design-award-winner-from-wwdc-2026-heres-what-every-ios-27dda2714be5?source=rss-223110f75295------2) *(Published on 12 Aug 2026)*
-- [ 12 Apple Design Award Winners 2026 Every iOS Developer Should Study (And Why They Won)](https://gauravtakjaipur.medium.com/12-apple-design-award-winners-2026-every-ios-developer-should-study-and-why-they-won-d3c0651aa208?source=rss-223110f75295------2) *(Published on 10 Aug 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
