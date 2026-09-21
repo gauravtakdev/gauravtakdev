@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [11 iPhone Apps I Use Every Day That Actually Make My Life Easier and More Productive](https://gauravtakjaipur.medium.com/11-iphone-apps-i-use-every-day-that-actually-make-my-life-easier-and-more-productive-a7dffc14dba8?source=rss-223110f75295------2) *(Published on 21 Sept 2026)*
 - [11 Best Writing Tools in 2026 to Write Faster, Edit Better & Fix Our Grammar](https://gauravtakjaipur.medium.com/11-best-writing-tools-in-2026-to-write-faster-edit-better-fix-our-grammar-795ef64d68df?source=rss-223110f75295------2) *(Published on 14 Sept 2026)*
 - [5 Simple Tips to Make Your iPhone Faster and More Responsive](https://gauravtakjaipur.medium.com/5-simple-tips-to-make-your-iphone-faster-and-more-responsive-de2b837ab86d?source=rss-223110f75295------2) *(Published on 11 Sept 2026)*
 - [iPhone 18 Pro vs iPhone 17 Pro: Biggest Upgrades, Features and Should You Switch?](https://gauravtakjaipur.medium.com/iphone-18-pro-vs-iphone-17-pro-biggest-upgrades-features-and-should-you-switch-bed0cb8aa10e?source=rss-223110f75295------2) *(Published on 10 Sept 2026)*
@@ -84,7 +85,6 @@
 - [5 AI Apps Every iPhone User Should Install in 2026 for Content Creation, Productivity, Learning &…](https://gauravtakjaipur.medium.com/5-ai-apps-every-iphone-user-should-install-in-2026-for-content-creation-productivity-learning-8ff361faa824?source=rss-223110f75295------2) *(Published on 24 Aug 2026)*
 - [25 iOS Interview Questions Every Swift Developer Should Know in 2026 With Real-World Explanations](https://gauravtakjaipur.medium.com/25-ios-interview-questions-every-swift-developer-should-know-in-2026-with-real-world-explanations-cbae5066163c?source=rss-223110f75295------2) *(Published on 18 Aug 2026)*
 - [11 Best iPhone Tips That Will Make Your iPhone Faster, Smarter & More Productive in 2026](https://gauravtakjaipur.medium.com/11-best-iphone-tips-that-will-make-your-iphone-faster-smarter-more-productive-in-2026-55d91081d3b6?source=rss-223110f75295------2) *(Published on 17 Aug 2026)*
-- [Pixel 11 Is Here And Google Is Quietly Changing What a Smartphone Can Do](https://gauravtakjaipur.medium.com/pixel-11-is-here-and-google-is-quietly-changing-what-a-smartphone-can-do-b446bd5509bd?source=rss-223110f75295------2) *(Published on 14 Aug 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
