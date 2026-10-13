@@ -75,16 +75,16 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [Are We Really Safe on the Internet??? The Uncomfortable Truth About OSINT](https://gauravtakjaipur.medium.com/are-we-really-safe-on-the-internet-the-uncomfortable-truth-about-osint-8b2e8acc2b7c?source=rss-223110f75295------2) *(Published on 13 Oct 2026)*
 - [11 Mental Math Tricks That Make You Faster at Calculations (Without a Calculator)](https://gauravtakjaipur.medium.com/11-mental-math-tricks-that-make-you-faster-at-calculations-without-a-calculator-cde6c4394fdb?source=rss-223110f75295------2) *(Published on 12 Oct 2026)*
 - [7 Simple Rules That Can Make You a Better Writer (And Keep Readers Coming Back)](https://gauravtakjaipur.medium.com/7-simple-rules-that-can-make-you-a-better-writer-and-keep-readers-coming-back-35ed79647661?source=rss-223110f75295------2) *(Published on 12 Oct 2026)*
+- [“I’ll Do It Later”: The Small Lie That Quietly Steals Our Life](https://gauravtakjaipur.medium.com/ill-do-it-later-the-small-lie-that-quietly-steals-our-life-0e322ba9e830?source=rss-223110f75295------2) *(Published on 6 Oct 2026)*
 - [11 iPhone Apps I Use Every Day That Actually Make My Life Easier and More Productive](https://gauravtakjaipur.medium.com/11-iphone-apps-i-use-every-day-that-actually-make-my-life-easier-and-more-productive-a7dffc14dba8?source=rss-223110f75295------2) *(Published on 21 Sept 2026)*
 - [11 Best Writing Tools in 2026 to Write Faster, Edit Better & Fix Our Grammar](https://gauravtakjaipur.medium.com/11-best-writing-tools-in-2026-to-write-faster-edit-better-fix-our-grammar-795ef64d68df?source=rss-223110f75295------2) *(Published on 14 Sept 2026)*
 - [5 Simple Tips to Make Your iPhone Faster and More Responsive](https://gauravtakjaipur.medium.com/5-simple-tips-to-make-your-iphone-faster-and-more-responsive-de2b837ab86d?source=rss-223110f75295------2) *(Published on 11 Sept 2026)*
 - [iPhone 18 Pro vs iPhone 17 Pro: Biggest Upgrades, Features and Should You Switch?](https://gauravtakjaipur.medium.com/iphone-18-pro-vs-iphone-17-pro-biggest-upgrades-features-and-should-you-switch-bed0cb8aa10e?source=rss-223110f75295------2) *(Published on 10 Sept 2026)*
 - [11 Mac Apps I Wish I Installed on Day One →They Completely Changed My Workflow](https://gauravtakjaipur.medium.com/11-mac-apps-i-wish-i-installed-on-day-one-they-completely-changed-my-workflow-84ed66eaf507?source=rss-223110f75295------2) *(Published on 31 Aug 2026)*
 - [Swift Loops Aren’t Just Syntax: How Senior iOS Engineers Choose the Right One](https://gauravtakjaipur.medium.com/swift-loops-arent-just-syntax-how-senior-ios-engineers-choose-the-right-one-fd96aee11b4a?source=rss-223110f75295------2) *(Published on 27 Aug 2026)*
-- [How iOS Apps AutoFill Payment OTPs Without SMS Permission Using SwiftUI Way](https://gauravtakjaipur.medium.com/how-ios-apps-autofill-payment-otps-without-sms-permission-using-swiftui-way-00b0af7ae6b8?source=rss-223110f75295------2) *(Published on 26 Aug 2026)*
-- [5 AI Apps Every iPhone User Should Install in 2026 for Content Creation, Productivity, Learning &…](https://gauravtakjaipur.medium.com/5-ai-apps-every-iphone-user-should-install-in-2026-for-content-creation-productivity-learning-8ff361faa824?source=rss-223110f75295------2) *(Published on 24 Aug 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
