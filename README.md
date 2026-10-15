@@ -83,7 +83,7 @@
 - [11 Best Writing Tools in 2026 to Write Faster, Edit Better & Fix Our Grammar](https://gauravtakjaipur.medium.com/11-best-writing-tools-in-2026-to-write-faster-edit-better-fix-our-grammar-795ef64d68df?source=rss-223110f75295------2) *(Published on 14 Sept 2026)*
 - [5 Simple Tips to Make Your iPhone Faster and More Responsive](https://gauravtakjaipur.medium.com/5-simple-tips-to-make-your-iphone-faster-and-more-responsive-de2b837ab86d?source=rss-223110f75295------2) *(Published on 11 Sept 2026)*
 - [iPhone 18 Pro vs iPhone 17 Pro: Biggest Upgrades, Features and Should You Switch?](https://gauravtakjaipur.medium.com/iphone-18-pro-vs-iphone-17-pro-biggest-upgrades-features-and-should-you-switch-bed0cb8aa10e?source=rss-223110f75295------2) *(Published on 10 Sept 2026)*
-- [11 Mac Apps I Wish I Installed on Day One →They Completely Changed My Workflow](https://gauravtakjaipur.medium.com/11-mac-apps-i-wish-i-installed-on-day-one-they-completely-changed-my-workflow-84ed66eaf507?source=rss-223110f75295------2) *(Published on 31 Aug 2026)*
+- [11 Mac Apps I Wish I Installed on Day One →They Completely Changed My Workflow](https://medium.com/ios-lab/11-mac-apps-i-wish-i-installed-on-day-one-they-completely-changed-my-workflow-84ed66eaf507?source=rss-223110f75295------2) *(Published on 31 Aug 2026)*
 - [Swift Loops Aren’t Just Syntax: How Senior iOS Engineers Choose the Right One](https://gauravtakjaipur.medium.com/swift-loops-arent-just-syntax-how-senior-ios-engineers-choose-the-right-one-fd96aee11b4a?source=rss-223110f75295------2) *(Published on 27 Aug 2026)*
 <!-- MEDIUM-BLOG-END -->
 
