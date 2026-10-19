@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [We Tried to Give Our Son the Best Life We Could. Then He Told Us He Was Ashamed of Us.](https://gauravtakjaipur.medium.com/we-tried-to-give-our-son-the-best-life-we-could-then-he-told-us-he-was-ashamed-of-us-546c9d5f6ef9?source=rss-223110f75295------2) *(Published on 19 Oct 2026)*
 - [Are We Really Safe on the Internet??? The Uncomfortable Truth About OSINT](https://gauravtakjaipur.medium.com/are-we-really-safe-on-the-internet-the-uncomfortable-truth-about-osint-8b2e8acc2b7c?source=rss-223110f75295------2) *(Published on 13 Oct 2026)*
 - [11 Mental Math Tricks That Make You Faster at Calculations (Without a Calculator)](https://gauravtakjaipur.medium.com/11-mental-math-tricks-that-make-you-faster-at-calculations-without-a-calculator-cde6c4394fdb?source=rss-223110f75295------2) *(Published on 12 Oct 2026)*
 - [7 Simple Rules That Can Make You a Better Writer (And Keep Readers Coming Back)](https://gauravtakjaipur.medium.com/7-simple-rules-that-can-make-you-a-better-writer-and-keep-readers-coming-back-35ed79647661?source=rss-223110f75295------2) *(Published on 12 Oct 2026)*
@@ -84,7 +85,6 @@
 - [5 Simple Tips to Make Your iPhone Faster and More Responsive](https://gauravtakjaipur.medium.com/5-simple-tips-to-make-your-iphone-faster-and-more-responsive-de2b837ab86d?source=rss-223110f75295------2) *(Published on 11 Sept 2026)*
 - [iPhone 18 Pro vs iPhone 17 Pro: Biggest Upgrades, Features and Should You Switch?](https://gauravtakjaipur.medium.com/iphone-18-pro-vs-iphone-17-pro-biggest-upgrades-features-and-should-you-switch-bed0cb8aa10e?source=rss-223110f75295------2) *(Published on 10 Sept 2026)*
 - [11 Mac Apps I Wish I Installed on Day One →They Completely Changed My Workflow](https://medium.com/ios-lab/11-mac-apps-i-wish-i-installed-on-day-one-they-completely-changed-my-workflow-84ed66eaf507?source=rss-223110f75295------2) *(Published on 31 Aug 2026)*
-- [Swift Loops Aren’t Just Syntax: How Senior iOS Engineers Choose the Right One](https://gauravtakjaipur.medium.com/swift-loops-arent-just-syntax-how-senior-ios-engineers-choose-the-right-one-fd96aee11b4a?source=rss-223110f75295------2) *(Published on 27 Aug 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
