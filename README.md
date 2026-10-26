@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [11 Free iPhone Apps That Feel Almost Too Good to Be Free in 2026](https://gauravtakjaipur.medium.com/11-free-iphone-apps-that-feel-almost-too-good-to-be-free-in-2026-b585a5ca3ef8?source=rss-223110f75295------2) *(Published on 26 Oct 2026)*
 - [11 GitHub Repositories Every Developer Should Know (And Actually Use)](https://gauravtakjaipur.medium.com/11-github-repositories-every-developer-should-know-and-actually-use-95851a6b9af8?source=rss-223110f75295------2) *(Published on 20 Oct 2026)*
 - [Are We Really Safe on the Internet??? The Uncomfortable Truth About OSINT](https://gauravtakjaipur.medium.com/are-we-really-safe-on-the-internet-the-uncomfortable-truth-about-osint-8b2e8acc2b7c?source=rss-223110f75295------2) *(Published on 13 Oct 2026)*
 - [11 Mental Math Tricks That Make You Faster at Calculations (Without a Calculator)](https://gauravtakjaipur.medium.com/11-mental-math-tricks-that-make-you-faster-at-calculations-without-a-calculator-cde6c4394fdb?source=rss-223110f75295------2) *(Published on 12 Oct 2026)*
@@ -84,7 +85,6 @@
 - [11 Best Writing Tools in 2026 to Write Faster, Edit Better & Fix Our Grammar](https://gauravtakjaipur.medium.com/11-best-writing-tools-in-2026-to-write-faster-edit-better-fix-our-grammar-795ef64d68df?source=rss-223110f75295------2) *(Published on 14 Sept 2026)*
 - [5 Simple Tips to Make Your iPhone Faster and More Responsive](https://gauravtakjaipur.medium.com/5-simple-tips-to-make-your-iphone-faster-and-more-responsive-de2b837ab86d?source=rss-223110f75295------2) *(Published on 11 Sept 2026)*
 - [iPhone 18 Pro vs iPhone 17 Pro: Biggest Upgrades, Features and Should You Switch?](https://gauravtakjaipur.medium.com/iphone-18-pro-vs-iphone-17-pro-biggest-upgrades-features-and-should-you-switch-bed0cb8aa10e?source=rss-223110f75295------2) *(Published on 10 Sept 2026)*
-- [11 Mac Apps I Wish I Installed on Day One →They Completely Changed My Workflow](https://gauravtakjaipur.medium.com/11-mac-apps-i-wish-i-installed-on-day-one-they-completely-changed-my-workflow-84ed66eaf507?source=rss-223110f75295------2) *(Published on 31 Aug 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
