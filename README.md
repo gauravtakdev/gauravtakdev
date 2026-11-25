@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [How I Used AI to Automate 5,400 Data Points and Earn $500 in Just 30 Minutes](https://gauravtakjaipur.medium.com/how-i-used-ai-to-automate-5-400-data-points-and-earn-500-in-just-30-minutes-8c3b8e54a37f?source=rss-223110f75295------2) *(Published on 25 Nov 2026)*
 - [11 Free iPhone Apps That Feel Almost Too Good to Be Free in 2026](https://gauravtakjaipur.medium.com/11-free-iphone-apps-that-feel-almost-too-good-to-be-free-in-2026-b585a5ca3ef8?source=rss-223110f75295------2) *(Published on 26 Oct 2026)*
 - [11 GitHub Repositories Every Developer Should Know (And Actually Use)](https://gauravtakjaipur.medium.com/11-github-repositories-every-developer-should-know-and-actually-use-95851a6b9af8?source=rss-223110f75295------2) *(Published on 20 Oct 2026)*
 - [Are We Really Safe on the Internet??? The Uncomfortable Truth About OSINT](https://gauravtakjaipur.medium.com/are-we-really-safe-on-the-internet-the-uncomfortable-truth-about-osint-8b2e8acc2b7c?source=rss-223110f75295------2) *(Published on 13 Oct 2026)*
@@ -84,7 +85,6 @@
 - [11 iPhone Apps I Use Every Day That Actually Make My Life Easier and More Productive](https://gauravtakjaipur.medium.com/11-iphone-apps-i-use-every-day-that-actually-make-my-life-easier-and-more-productive-a7dffc14dba8?source=rss-223110f75295------2) *(Published on 21 Sept 2026)*
 - [11 Best Writing Tools in 2026 to Write Faster, Edit Better & Fix Our Grammar](https://gauravtakjaipur.medium.com/11-best-writing-tools-in-2026-to-write-faster-edit-better-fix-our-grammar-795ef64d68df?source=rss-223110f75295------2) *(Published on 14 Sept 2026)*
 - [5 Simple Tips to Make Your iPhone Faster and More Responsive](https://gauravtakjaipur.medium.com/5-simple-tips-to-make-your-iphone-faster-and-more-responsive-de2b837ab86d?source=rss-223110f75295------2) *(Published on 11 Sept 2026)*
-- [iPhone 18 Pro vs iPhone 17 Pro: Biggest Upgrades, Features and Should You Switch?](https://gauravtakjaipur.medium.com/iphone-18-pro-vs-iphone-17-pro-biggest-upgrades-features-and-should-you-switch-bed0cb8aa10e?source=rss-223110f75295------2) *(Published on 10 Sept 2026)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
